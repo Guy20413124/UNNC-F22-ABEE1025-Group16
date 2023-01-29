@@ -1,0 +1,32 @@
++++++++++++++++++++The program function and the sample input below+++++++++++++++++++
+1.O invertible matrix,matters need attention:
+O invertible matrix only need to input a matrix, the input sample
+1 2 3
+1 2 3
+1 2 3
+Pay attention to the adjacent two Numbers separated by a space
+2.Matrix of the dot product, need to enter two matrix,
+ input matrix method as well as the middle with the capital of the 'X', input sample：
+1 2 3
+1 2 3
+1 2 3
+X
+1 2 3
+1 2 3
+1 2 3
+3.Multiple solutions of a type, in the process, you just need to the unknown coefficient (signed) equals sign and add and subtract Numbers do not need to write, output sample：
+If you want to askX+Y=0,3X+2Y=9,so the input
+1 1 0
+3 2 9
+Adjacent Numbers separated by a space
+4.Transposed matrix
+The input and invertible matrix input is the same
+5.For matrix and matrix the dot product of the same knowledge could become a '+' to 'X'
+6.Matrix multiplication'
+    2 as input and function
+7.The square of matrix'
+    1 as input and function
+8.Strives for the eigenvalues of the matrix'
+    1 as input and function
+9.Strives for the featurevector of the matrix'
+    1 as input and function
